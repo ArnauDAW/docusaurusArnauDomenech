@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_arnau_domenech=globalThis.webpackChunkdocusaurus_arnau_domenech||[]).push([[858],{5516:u=>{u.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

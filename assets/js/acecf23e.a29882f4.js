@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_arnau_domenech=globalThis.webpackChunkdocusaurus_arnau_domenech||[]).push([[903],{1912:u=>{u.exports=JSON.parse('{"blogBasePath":"/docusaurusArnauDomenech/blog","blogTitle":"Blog","authorsListPath":"/docusaurusArnauDomenech/blog/authors"}')}}]);
