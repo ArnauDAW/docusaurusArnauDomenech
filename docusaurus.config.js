@@ -97,7 +97,7 @@ const config = {
           },
            {
             to: '/desplegaments-arnau',
-            label: 'desplegament',
+            label: 'Desplegament',
             position: 'left',
             
           },
