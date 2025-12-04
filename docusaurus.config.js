@@ -90,10 +90,18 @@ const config = {
         },
         items: [
           {
-            to: 'benvinguda-ArnauDomenech',
+            to: '/benvinguda-ArnauDomenech',
             label: 'Benvinguda',
             position: 'left',
+            
           },
+           {
+            to: '/desplegaments-arnau',
+            label: 'desplegament',
+            position: 'left',
+            
+          },
+          
 
           {
             href: 'https://github.com/facebook/docusaurus',
