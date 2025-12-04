@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <th><a href="https://arnaudaw.github.io/intermodular06ArnauDomenech/">Github</th>
-    <th><a href="https://intermodular06-arnau-domenech.vercel.app/">Vercel</th>
-    <th><a href="https://luxury-llama-bdc37b.netlify.app/">>Netlify</th>
+    <th><a href="https://arnaudaw.github.io/intermodular06ArnauDomenech/">Github</a></th>
+    <th><a href="https://intermodular06-arnau-domenech.vercel.app/">Vercel</a></th>
+    <th><a href="https://luxury-llama-bdc37b.netlify.app/">Netlify</a></th>
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80"/></td>
