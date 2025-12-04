@@ -7,9 +7,9 @@
     <th><a href="https://luxury-llama-bdc37b.netlify.app/">>Netlify</th>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80"></td>
-    <td><img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" width="80"></td>
-    <td><img src="https://www.netlify.com/v3/img/components/logomark.png" width="80"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80"/></td>
+    <td><img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" width="80"/></td>
+    <td><img src="https://www.netlify.com/v3/img/components/logomark.png" width="80"/></td>
   </tr>
 </table>
 ## Desplegaments de repositori Github Arnau Domenech
